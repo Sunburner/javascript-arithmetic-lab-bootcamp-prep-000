@@ -1,2 +1,3 @@
-add(a, b) = 1 + 1
-add(a, b)
+function add(a+b){
+  return a+b
+}
