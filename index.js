@@ -1,4 +1,6 @@
 const a = 4
 const b = 5
 
-a + b
+function (add) {
+  a + b
+}
