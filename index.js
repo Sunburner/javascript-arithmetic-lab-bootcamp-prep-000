@@ -14,6 +14,6 @@ function divide(a, b){
   return a / b
 }
 
-function incriment(n){
+function inc(n){
   return n++
 }
